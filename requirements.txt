@@ -1,0 +1,7 @@
+torch
+numpy
+pillow
+scikit-image
+scipy
+matplotlib
+kagglehub

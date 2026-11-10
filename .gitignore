@@ -1,0 +1,11 @@
+# Data, weights, and outputs — never upload these to GitHub
+*.pth
+mri_images/
+results/
+data/
+*.tif
+*.nii
+*.nii.gz
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
